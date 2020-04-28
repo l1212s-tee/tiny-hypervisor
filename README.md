@@ -1,13 +1,16 @@
 # tiny-hypervisor
 
 VMI (virtual machine introspection) (many of them support late launch)
+
 [Windows only] blue pill / HyperDdg -> MoRE -> SimpleVisor -> hvpp / BareBone / HyperPlatform -> 
 [Win+linux] ksm / BareFlank / iKGT / SecVisor 
 
 Partition hypervisor:
+
 Jailhouse (late launch) -> ACRN (type 1) 
 
 Tee Hypervisor: 
+
 InkTag -> OverShadow 
 TrustVisor -> XMHF -> UberXMHF 
 
