@@ -36,6 +36,8 @@ TrustVisor -> XMHF -> UberXMHF
 
 
 Key contributors:
+
 [1] Amit Vasudevan (CMU): https://uberxmhf.org/  (TrustVisor -> XMHF -> UberXMHF -> UberSpark)
+
 [2] Assured Information Security (MoRE -> SimpleVisor -> HyperPlatform -> BareFlank)
 
